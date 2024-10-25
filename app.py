@@ -5,9 +5,11 @@ from classes.client import Client
 from modules.crosscurve.logic import get_swap_route, get_estimate, create_swap_transaction, \
     send_crosscurve_swap_transaction
 from utils.read_utils import read_file
+from utils.other import get_logo
 
 
 def main():
+    get_logo()
     print("Выберите путь:")
     print("1. Arb to Linea")
     print("2. Linea to Arb")
