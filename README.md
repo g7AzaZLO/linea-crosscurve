@@ -6,14 +6,14 @@
 ## Установка софта
 Качаем питон, качаем репозиторий
 В файл wallets.txt вписываем свои приватники - каждый на новый строке
-далее если вы н винде, то запускайте через командную строку или любую IDE (PyCharm, VScode) </br>
+далее если вы на винде, то запускайте через командную строку или любую IDE (PyCharm, VScode) </br>
 Если ставите на линукс сервер: </br>
-git clone https://github.com/g7AzaZLO/linea-crosscurve.git </br>
-cd linea-crosscurve </br>
-pip install requirements.txt </br>
-python app.py </br>
+```git clone https://github.com/g7AzaZLO/linea-crosscurve.git``` </br>
+```cd linea-crosscurve``` </br>
+```pip install requirements.txt``` </br>
+```python app.py``` </br>
 
-Время сежду свапами на аккаунтах 0-5 минут, изменить это можно в app.py
+Время между свапами на аккаунтах 0-5 минут, изменить это можно в app.py
 ![image](https://github.com/user-attachments/assets/552289da-5fc8-49d5-8d40-f7752af5d07c)
 
 от и до, время в секундах
