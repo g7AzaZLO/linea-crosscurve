@@ -1,6 +1,6 @@
 # linea-crosscurve
 Делает свап ETH из arbitrum в linea и обратно для кампании  Eywa/AlphaMind/Linea</br>
-Свап осуществляется на [CrossCurve](https://bit.ly/crosscurve) тут же вам дадут 500 поинтов в рамках EYWA капмпании </br>
+Свап осуществляется на [CrossCurve](https://bit.ly/crosscurve) тут же вам дадут 500 поинтов </br>
 Чтобы забрать свои LXP нужно зайти на [AlphaMind](https://bit.ly/g7alphamind) и там пройти задание, так же нужен будет POH </br>
 
 ## Установка софта
